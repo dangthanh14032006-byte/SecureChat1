@@ -1,0 +1,254 @@
+[
+  {
+    "ForReceiver": {
+      "SenderId": "long",
+      "ReceiverId": "thanh",
+      "Timestamp": "2026-09-22T19:05:29.6763802+00:00",
+      "WrappedSessionKey": "1KK3mJC4ZunJw1cI631zhxNBk4tr8tm7chtl338rEjySQuxR4eGL9QXpX0AdritILsqEdxlI1spMJeB26v28TB9RWOA21IWqYdVlI+eFmQZs2/RjKRh7tXJFbBbvaB4iZl0ifXXtShwzQzzRG+nEjDkFQLNq0oVuoqVQ72ef8GIitsG8ya8TkCeJv7eF/flx46hT0xZcM/5LosoC2mj5A/rkO/gCfEnzOOAs+NpRsqpbmzxVQaE+UJEmHGFBvzL7d53pzF03W5XEPD/wd+YjCZMij+gmE0bdOPZOp9+F71hmxGRjmzFqkv7UGr9J8zU6sIRVzVHapV62vRIXpC+G+oFbwMH+nBLOFgQcPpBgW6qot9p4hlTV68b8gbc7M47zEyJ5bLCWranBsglIOJycnFLz8VClXAj4zTjl8yxHufBiN51Fk6OdNPICBOkv4zCb1HqAUMmymb/GpUjiVlIOVMdB2G2IAmBCvL+s8VoasVI8oyu+zyzaeSZ+aNJ6MKIyHuHN6w0mA6wCgiIlECOlbxHM6xAouzDcZwEGPpNjYlaWmdnlfiJgBX1bg3oxrW1LdI/84fBkaCAa84ETuCRunw2j/jWgbbKVZsLf2mXvaulZ2DPrf77TWstRWI7WNHMMm2N/+Lf61zW6GnZO3UMmTJ5kwxSIMJ5SKkf8iP6t+Us=",
+      "Ciphertext": "GjynP4oauaa7E2ntwhCAglsInc/Sf0FTLgt0YqF9Usw=",
+      "Sha256Hex": "476792ccf264c385ffcc75bc97990df29f031a74e0eb502c61dfc1291cb6c6c2",
+      "Md5Hex": "0412ffc5e7e1a19d8d23b4e288b3ced4",
+      "Signature": "IbVyJ9QH/xx8d+VuHWjOIzASLHQW0vu4FmslwpvofPaY8Bbm5O3jTt5sE8+wO+07dNRHkyX1HwzrFkP4rMRRELNLJQHfLfujYyh5TsFUYczRw70eF5NakMQ3u+pb66t2MezNWrNpEJQ1/00nS3T1s/npnsbohpje8OoBBvtnbQHtbXmD+pFyY0NUaauOS7/xHO+7d+v3MAZzv04M3IA/VMznC4CupzDxPJvFfUCX+fY7ASFNd2Rdw7Qs3ke/djs4eT2uMKmaCT6zxeRK40SlzAIlMvhaGpAJJdIOMRmeY/vw/4+SRh0FAq+bStinwUpCo1LfJTR7/q80ry4nUZ62wZqTiMC+qM5js+3gNbHAuER24pT8k/wlHXLjyeaavsLx7bgeiqgsDRQfVL0jnGnYkbI0IpwhHhEwbGgkWlwK7Ht/ayqvoW+ECITq1toy0WxsdWzT6L/00lx/o7WejcF0cuO43luJkPo+7hvZyxbcs/q80lNwV+dTpvr4wRgnDhuWwKvst4Sj1OSmU0MgLX1ZaHkLYxXpnqC0XMx1GOkI/xdpwT/Vnlap/4heycxISR3bAhsAEArXPnqdBO4xVBnmuPNIEZpOKr2igN4z+qpte4oE47UwrrToKrae2LkX1Oqy66eG5Vo3kA0UhsbFcOfGR/qd0U59y3hF+yml1luMTlU=",
+      "Metrics": {
+        "EncryptMs": 85.4345,
+        "DecryptMs": 0,
+        "PlaintextBytes": 4,
+        "CiphertextBytes": 1104,
+        "Overhead": 276
+      }
+    },
+    "ForSenderCopy": {
+      "SenderId": "long",
+      "ReceiverId": "long",
+      "Timestamp": "2026-09-22T19:05:29.7508392+00:00",
+      "WrappedSessionKey": "amztaR1tSTrjqXgs6vyVP0gNGW84taL496oboh/kjaWxWeC3TEP0+24MiGmshdBc/Zhu+uPh7A9ihZYc6XKCwqcA6ckRK9K5SwWIdA9dHqZfKAna4WPqJxdoYnm1bgGS/tzCISG5kyIDVZnR/q7746szVlQBDFuGuf0ENS30CQbOsFSBvojAvpu4zaVAWtL11OW+zOsNUGfeKM1F+rgFU35WXU8PmRFzOMbK6MAKPugi9H0ab2oCDdl/7YA1wNFablNZGKRty0PRpCJDTjjA3g/Gj/0CEIqNBDGhKYrtZOzyUUAgAEICNp2f0SceJNWYUW0gETx+8SeTLRPniXLZt+tg9RJO2OXMsgZPwrjfAI/aSSqIgyf6PkanPJ1LMtmKlfcttTgFjiEu10IjTwjzfknKmY+kTHVd8vADKI1M3dzylwcNhM7NbXUWO2ciQOAZz707UIp+26qZvx+O793ADsMn4ZHDaoVaa3URElWcEV22m65KfnYGb+/i8Gw+Eg/dSpW3UsH5d/6r20fO4xQN02zdJcqYZgq+9jBM8mUAlFlBymRI4z/bVZGl04Bjx3CbTVVTjV/mePH7HqXqLjEwlicV8eN3ThetzJ+REOmoVvyvjlGezJdg7VJmuwhCP3B/7TORRz+rvliJOxSlswB0HJ7vPhoAMwyxWrP5R/8gkWc=",
+      "Ciphertext": "l7oj9BRm+aUtHY/4XNbU/jQr5F5x6Gj6AcjGmvqPmRk=",
+      "Sha256Hex": "476792ccf264c385ffcc75bc97990df29f031a74e0eb502c61dfc1291cb6c6c2",
+      "Md5Hex": "0412ffc5e7e1a19d8d23b4e288b3ced4",
+      "Signature": "jb72R/lH6/3ZqvRK1rTmaCG3LMqA0p3xEp3AORULIk5Vkm+DgZm5CepVk/2Vb3+LHTLSFJTWdsGPizeKQGJrk/Y50gGy80uxoD03QJdIXvcy1rhtrout+a1Tft2KSIrWvVqX7Vu3az/bXd0yALkv9fVWNhBxPf8jCew2CJ9r2QXlXzgV33AZVr0n/crXh5ZckOh1SL2FPSLml6PsnEE0uQVL2Rdp9gDnFvAp3A0rN+1Bvuw3ikMb1F2oBUQD3XgOy1LwKoVW8PKcXkU05ovOjK6aK4WZGaeMwjN/RfwBwTyHJughXAWuFgNdKvVcYsi+Om8nuyafvZ05qjsZfMFZgT1jb+NbnTL0D0BcMIvwaWdAikvHb4cQn0SegU4e5zqZxJ1yenqi36HVM2wsom4qUZDxQC/B833Kr9hijofZnGtmZWaaRBt4sY9lvlukKApOXtTRnbleK+TYJlXJRr9gD/Z4T2CSwxL9Dbg1HZE5nO7e/giA7Yi+hO6aH0bu051ErzKeiAba4Jk2iKeKxlR5/349ijw3CUm7JYJGbRg41l6cjY4SGQCRWb9T0dFZ8cHPRcnDHRsr5YziUM2emKNC37N/qU11h2QT6MauUgmXYwGlqcxnWRHw6UxZjKf7Z0SSMwU+u7c8xSlsQmu6OzOVSSihpZzc9awSJFQTTqP8Zp4=",
+      "Metrics": {
+        "EncryptMs": 67.2925,
+        "DecryptMs": 0,
+        "PlaintextBytes": 4,
+        "CiphertextBytes": 1104,
+        "Overhead": 276
+      }
+    }
+  },
+  {
+    "ForReceiver": {
+      "SenderId": "thanh",
+      "ReceiverId": "long",
+      "Timestamp": "2026-09-22T19:05:32.380674+00:00",
+      "WrappedSessionKey": "RODHbAeEtyXH1MEhb7IWCOHjV+oyBJFN3PaX1g3KocG71RWSPLAX4lz7dnLdf/XtmVFQUz3X7ES+bWu3AXouymDLolVFVHJEOkowWGSpxwDt1SYQIeRdPUZJhuTl8/qOEiN0nMJffFcLFvbcYDYe2xBXE8y1knaA6vYHOKjLtDJaDzWPblNR//ShqQpq80mJPvkZbO2hGhy8iZ1ynIrQADSK2+UUW3i49eCwlLri7ItDYCARpDiFG4i8giXkVlSre5p+DlIszyo3Ue7T73PRFCd9l3hBbE9RmRQph4Ktn4EWxB+rTpiqb+WTeIpt4KlbmuV2swDA6Vj1UCqb3gcAI2h6eIUmO81JJRRuEiWIk1M49iCVRdyNphq5Sy9i5RJGnCTY1MJJ0j28MbtmQtjvQxxqYu2h7RLtXW6kquk1iH7F/x2M/3kG0gJ6+MrA0aWz2irWW38XQJJSUM1iqn3J7fQFwYo0MFnYVYO6OTcJ/WfkueFicyzC08X3Q94sx3dN34qBDQJdyn8flNOQW75T8y+IWg1eWPChq3UXY5dWpTFT+ZRSW3HrhGj2YM2ZBkv2PaNtkInaSawCF8lwVfam2GP+6IL0wWiTKCvIrUSCFkfZxdIP59hZGoUini48Z/YR4RU6IpyWMdejjw+6WGxNA+YpAvWolxPEx5Mli6r0EAM=",
+      "Ciphertext": "9J2aTWeZmpD6zCddGxx5mdcj6Xo85gh+Nd3AEbN8tg==",
+      "Sha256Hex": "de04d58dc5ccc4b9671c3627fb8d626fe4a15810bc1fe3e724feea761965fb71",
+      "Md5Hex": "5f039b4ef0058a1d652f13d612375a5b",
+      "Signature": "z919GKAwWzchR+/7hvvmeM2u6ZVUGKwgGQnlcyvnBW8J9OxZtMbKULStnCBPhGGJm/sU4d5g2w1VEhOP6A/krzgFEl6PSEKNItiGQbQLs90YAi/3+KDZYnn7i/145ifzcGP8Azsn4fpBKNJ8QUGuBzOJijvGH/JsUxy+NmHY+UQk2PmGpRKNQZ+gxKcwjFiUTglZXJHTFxWOOYVrwYoq2xm6QvUjhLTGaUcGqExo24gJiH8cqZF+IQ9zb2r1BHArRESsZvUrg9M3lFmAb8wxWwtpggu/OSAVHtgEnYt+Vzk/NV9AEVbtWm/U61T5TM85Gb102vrMK0PDm4kHhuS59sWf/KoISdVU20jp1fMnOwPx7csKdzhRhKa1IazFRosGHIRgH423ISx3I5YaPHCeyxvJRTuZ7pLAMM8+bUUXAapKJwTC8nwS6oLZQ47xlY22q4OFZvJB3uDlhPsoXIdSZxv+uUjHqe7BHz+AU+ZiXMGZx1c3QdlgZwLB04VqpoNsGChIr+775W++tnYeRPWsqZTUClAr6ldz1EX1yf7mZiw+z8ZJVr2cNWs45892DRRQxn6OvC3LFLV6ahhsH+4vfp0JCIMXs8LIvmZH/NUm9+v520UFAhgbAy0sIphl1zSc5MDoAeeR6PKbxp8NxmYDzILM7kSfrFUkxAXzRcz1rJM=",
+      "Metrics": {
+        "EncryptMs": 19.6813,
+        "DecryptMs": 0,
+        "PlaintextBytes": 3,
+        "CiphertextBytes": 1103,
+        "Overhead": 367.6666666666667
+      }
+    },
+    "ForSenderCopy": {
+      "SenderId": "thanh",
+      "ReceiverId": "thanh",
+      "Timestamp": "2026-09-22T19:05:32.401198+00:00",
+      "WrappedSessionKey": "gsFFNj0zuXuIn6oe0Fk/wG5ZquSFwZcoK7FFx2KfSmQ/aNxYDtzCd38dqiubOoTE9BHgr4joS3Enm/hQ2kA1MyMWnRBHb16mNzTGzZvG5h/u42WUB9xLoTTkhoAL/Lk1Aa1CupXRsroVXQlkIFJfqBj79K+fmp+21zbIQSlsgVdx/wmREATy0yEwP5e0djCVazpOFt5yRUl5XGaElvxhj051RP7MU+XP6A35VqeIjT9o0n6UHd60rMUIiijr2N5DQatUD6Vck4oRxiMKL47va2yWosCb8mzvXultl5cHSB6C4NnrUYQjQKc4TakUmbIcIInuXjwr38D6ypY94Zz4FcFQbuFPSAW4csRy3hEJEikc8ja1bw9PbiDGl58lVa8wSEGHv+hM3wLSR34YnLfQOQbishftoe9X+tCsUSefbX5J6tKIbTALYg8bctIq5923f67Ppg43fIl98QJnZ4gcyDZJFg1BYT0PPA2UXOCYajot3B06MhgmObLNQpoXOq5YCmqij2rNhuEPPH9/2d0Tazq95Ejfy2bk7b63aMvv6mM0kuzrTVGCHxQoJFdPE+d8ewXctJTokSd7g0BaNm3Q/U0W2+3Ap+6bxsG9OhGBRDmtp7J+vEW5+D1csYhPZrcdDVA5DFZ4X86zj6gEHvgsAny5DlB2nJnOfWoeRlvRgR0=",
+      "Ciphertext": "OjURnTWKQzAhLteO/g9V++yDmFYyC5cmpmWZ71eQig==",
+      "Sha256Hex": "de04d58dc5ccc4b9671c3627fb8d626fe4a15810bc1fe3e724feea761965fb71",
+      "Md5Hex": "5f039b4ef0058a1d652f13d612375a5b",
+      "Signature": "qdGB3lI2nE6Q9BjE7GSW7RHe8aIOvnL9CIzbtaa4jmjZfMxdcfDeVoM22OLYcaAOJHNbBkf+rPwoewmzaWjo4PKTKJfDhrCh9DFrGTGXMek60Mv/lYfViKnn+K30azFIMajg/Cfq2uuhBclEjCTY358VFWbKV+PDDOuLcCulih90/0VjC/b0tAGLTJnCAFI2hkuHCgj3IWuHq9FNgzSbPLDMnxL7Z7aujyJlwAIUoGr6dXxE8DlOCRM8GZf5/YTHhI3UC8fUpmfBvaljdycQ8KGmvWgkFbzYVc+6l9kAf066dqhIp5IU2ADi2umxkMQXVYTc8xfPlHFBDaL57Vy2Ji6Srn0dUi7z+nxtA+Qa2PKbFtG3/YwajbH49Ce/5ziQwEwSvZMtGgiT5myKNQNEN/aCmH0qy7/orpTDuf8MRdU+6JBOT8TIAFVxIzYH74pJ+gefmsOfPoN01uz9DwKglXb6IQat7mvOPCblEpCJc8zW9SeO2ew2jcgSnwnwD/TGEESorsCQx8p1LGf+7W35xw4B5fLYBst6cJNR6N0WMf1rRknmhksKHcVMDuZ/j9yrVgvjH5K/jrC7wxNsEN/wv394afSTJexYpLfg/lJsFKaxzm2VbSH/867kPqDvXyvfL5e8oCRw6gE1pwlYLjv+foYeLKI55UpM8r+BZipOz8Q=",
+      "Metrics": {
+        "EncryptMs": 20.59,
+        "DecryptMs": 0,
+        "PlaintextBytes": 3,
+        "CiphertextBytes": 1103,
+        "Overhead": 367.6666666666667
+      }
+    }
+  },
+  {
+    "ForReceiver": {
+      "SenderId": "long",
+      "ReceiverId": "thanh",
+      "Timestamp": "2026-09-22T19:05:37.1897481+00:00",
+      "WrappedSessionKey": "R0scGMOOOvYXtsqCOtgOFjswfQ1Am5eWRWpovLxGshmrtQGoNSUqzL13JDpR29/fp2h3mHWe9UCzlFvaGO5OhuFU9iXiVCAKs9IzppUYJ35GUNTI/fCm9WTgCqVgYUDnAi9gsKyYQCkUp9/ParPWOLJnuKryZVIm3mXd4QOB5FKsA9QXbPGVweeXYdVvZxUHA0h9SK2Nqrq12fTt9gnvc+gWVKUhVKWtx+nR+19a20YUWCZeLESbV7a+mYC77iDYZx3kxps+lwDR1dqwe1ztk6/J9i8U7n6TmsDDawfhmzRPVYL0aR/A+zzSJzd0iw2qQ9ZhX9LWAuJC+2ypoEYqmdiJ1zrjt6gD7KhyUp5pNEl/TrwN133c1d/J1Pcqfg6OUiImrh85zqqBSigExG8qBBI0YqMIhVk/pGekjAayKm1E2/4+GEW0PLBtzKIe3TUT72hMl9aqGPht3TDG3jAT81On1q98/PHyvHugPBfDGrjCkOM+tbQnSL1K9l9HwGs71mNdtIvXjlnFeD1Dm1+eNAHKY1jF9u3hLS41goqb9pEMGB0RaMkJuSIk5IGODwT++0wugD0UaX4Y5otj6yowm+NbnDGPZhHJI8ykhZCAn2PVhqFLO6HFRX+LPbXNX0altE4gZZq2h29bHnHaM0EbxYdiwPYPPF2n9q4f9tD4Kqo=",
+      "Ciphertext": "YoAwL0mzPDlqikHaQEorJ9Td+xH2Qe/sEvJxanrdTBYiVCZg",
+      "Sha256Hex": "6d0a1251d58b36afe2dc0a19d9b51592e0de4a5a036dbe4662564fc40a1e6173",
+      "Md5Hex": "53d9f14de5b1ad1709ffd52e34ee1c82",
+      "Signature": "qSPppZHdiH8Z0by7br0qo0mx//n3vdZu6bkZYadSvKaD9Icm+Mq+v3ALIDXJJ5Zxyh65CFTrq6g2ET2qBVFrPbCAlcSm9c5oTJn7fuFmqwYYvqqTvoGeiMxViYcjeFtiUWYwRYKCnmm/4hEAlIQYphTj+j5qIjuZEUHDI1J7byJO/RtbWqO0qoPueWqkjogfXxD555F2o5CanWnfee3cLDSYXZ9ao3FCRxn8dI/ah04bxCjGCpZv4k64kJqgKxBqmj5khuCF0gRe29gSMj3XPaIHCbjbevZK2fpVQPBAimen+Tkk/tqBw8PifoleVBmUlebNtIqjZe3gDi9wmj3w47IVBG0eKFH3F0RPHaIsK+ZpJRHHJnhdvd0CV7p8OjBQpCvkjR0P6IRPi60KJQLbha8I+sP2v5x9N2dETgfG2yvI7Z1QBpgrMtdL+u7ghGQC1iyVNoESQTpT+D3Ly2G0grVL+vSjphqjrdgeQcQXKPFVw8Jl/ko2tAkuZ6RuOogXhH5M7gO5/Tdv6klZo2Y1kt/ITdQzMD22YvbK5CTcEWysDeCWOovanH47D9tRkS/YqV/ST/DWo2he7FFO46LRXEGeiWIAntsund6zIPZtbhlKRiqrtfGIud84kOe++nH8EKIIlgJBF5LMmgLaP9L9z5kLGL0nlvNyDFdRm1VVnyQ=",
+      "Metrics": {
+        "EncryptMs": 21.6275,
+        "DecryptMs": 0,
+        "PlaintextBytes": 8,
+        "CiphertextBytes": 1108,
+        "Overhead": 138.5
+      }
+    },
+    "ForSenderCopy": {
+      "SenderId": "long",
+      "ReceiverId": "long",
+      "Timestamp": "2026-09-22T19:05:37.2104381+00:00",
+      "WrappedSessionKey": "m39IHByuMubexkYuRMW8EwjKuKVQYbrDFOlphsKWbD/FJT8pJtkD/cGtaDsmVjH8mkYFexQQb0tm6qOJJOJq5ERKiUU0jE1wsus0yLPx7xw8qeA68MmWN9NxqM3sEBnaz32nEJc58a1gOWiXMr30WDN6x1aL04FBg4p/3D/xWERbrwQAngp6YPmOFjsrmTbbdCQsyuP/BWtPdHLWcNnVqXq+AyyCp+JFjHHHBVldhBypJ/n9pZw07S4ydfI9YeS2WEW1qaAkRirzi1ckRAhajDoj6VdSbh0IEPpVY0eUzT6zSI6nZdNG8meXmPDeNU/mF2WQCeVzgrYkyEKqbeJC+imPOa+hgt0/1plJAjqCh/AQ2Let6yXlTh18dtM78deDPPsVeMEv9cpvV7arjTnsVBEtuQHh+mNAKOKzcOAomUVm2RXNrINsFCQo+G2d1j7vMqgt3ilia4+Mj/qocX4eTJwtii/12W5gdbcTKUTXf2LdH2FOjkN9e8yqlDg2ag/b5gPa7ByduCSXIdJetKlc9ixE1qECdvTfYx+WgaWG5j2uchTSmqFzylJKtYwi81uPWef5czog8U/mFHx3GIYDS3y/qKlbDTJVJfNgmUjO41ONL7uiJu4Uqf6q3aKFLyz5BRrLhNvrLt9Kmd5Kv9KXfzMdn0rjSe1uWqM2TG888oE=",
+      "Ciphertext": "YLbsPdWfPKJOn8APaxAaeRvJBHBMvA6VukRcFkxYahJaPZnj",
+      "Sha256Hex": "6d0a1251d58b36afe2dc0a19d9b51592e0de4a5a036dbe4662564fc40a1e6173",
+      "Md5Hex": "53d9f14de5b1ad1709ffd52e34ee1c82",
+      "Signature": "RJif4fuHvhlmMTRCKV5+dPMNyB4d54ZdM7hnHwDZJRxXfpNnAAVPj8ZbmYDIYnSEXSuhnNAvpXIVgGhO/qNEPz3dDowS3Hnm5zl9/LzOXiwwz5vZmkxMIQ1/SLopQ/sy2xGbeEsjEyLQiLPYBnZsIe9uH0A1gWcUPcbhzpChS5p44dq4vBap6FyOWhdloNkxa7Npe9dmZdK0tGkQ+qWQF2tAFA+6z3hNH38IZxQZclq6/azhL7XjSh0K+YD+eiP/Unefo28j5izGC9bwbm5+GPzBYtlPT76D8yfy2HxjdFTvvlseth2LsBbIJE8XtKHr0XY/D3IOFauRzwIi+KYG+23HAxUA0RVbsm39fKTn8uMWNT7RJ+LQLv2zi108nPFWMGNh1x5Al1Qd27YWD5dMs+DIW5yo7+haUMQ8Mp/TpHPyyQNZE/0e6keRcWN+941hk7A5uAnCFaYRJIVZropYJG+aB3nq7hb4nAt7mLf7hYCTQQK2wKgtNpGiTGWf8JiZJmlPzFHin4wthHCFybxMVcCOIguWSHKP74Fi3TsUnR8UM1wASZwDSUSe9JRDcxnZecpUdZFIA1XhVSC6sbUBsaC/hQHK5OxBmobUdNqwEpQBWUFHWSPP77l9eYrgClgeo0r98I5Q+y0kSENulBI7fUDtniMkk45olB6lU0K1K4g=",
+      "Metrics": {
+        "EncryptMs": 20.5182,
+        "DecryptMs": 0,
+        "PlaintextBytes": 8,
+        "CiphertextBytes": 1108,
+        "Overhead": 138.5
+      }
+    }
+  },
+  {
+    "ForReceiver": {
+      "SenderId": "thanh",
+      "ReceiverId": "long",
+      "Timestamp": "2026-09-22T19:05:39.0189115+00:00",
+      "WrappedSessionKey": "pz+w2EbpILIP6XEOJxm1aX/IVavSUBNuLC/+Hosgp7LQ9/SJGZ0pR3rJwZUQvGLxUmPY7WoSrEiOZk0lwVjc49xN+gdVoEHeNOgm+xoFNVGBPg6ovDDZ0XRcsHVPaAyXBskCqKWLHRWnOS0Gd9IIoXNsSEqGkME7dPLg33W4wK86DEjMJXMicP6HCO5p0ylpYb37yEFvpwjRROrserm1mVrQwjE/rRP+Q+PHrsEpMl0A/ZVF/03ZahYa11kGs/Nd1GdfuzX92xd8wHg0tLix2HvkgKi2Ioh/LhEBhcjFgKALhJVJSoQGDUW/8B2jNljLZ0XMptKSqf1U/3dmOQceGT/xo7YDE0k+xDfE4rxHmgMYzKf5YW+2vVN+gi40hzMCEbh8dvwAd+8VMHCAkUL+nHGiFbbviW9cSKrNfaFaykbpSquLWeJRJ7HuLWzrm0tjaUk8l+Kp3QxfVhzr7gJSr7+I/yxBdEdxx6dlqyWk0L3eWotq+O2Jpb5R8xA+kbcIBjJmhoOieITGbT7TEgR3hXyoih2f1MlOUDtNL7KCCIC3RZk1scibmvS4Zt07c67d7rbdT5bSpVgpK2tVx1sujW+EbBwJw5EN9MBWW1LzIY0Y0hZDbKr66h/vjV6hA6apPIiLw4Bfa1vRXuaHWhY1KbNHFn+mkFsTM49qUSVzYsc=",
+      "Ciphertext": "LXRkXppZ6Ka698/AQrQwIhegNjcdkDQdV5i+hhU0VA==",
+      "Sha256Hex": "827ade3254c72ae811201b418766d9a8802e91b029d95cc9de2f0169274aedd7",
+      "Md5Hex": "838ece1033bf7c7468e873e79ba2a3ec",
+      "Signature": "Uy0tisBUT/2XUvtubqIP+vaf3aLD/DQZcHIFMUPG+PRCigoSy73csr2GCvIkyQZid9HUqy03LGp6nU9J19qJ8UtszGM3HwUwkUSu8fwOthYqHZ/Gc49i402Q1RBHOGsqfSxfWmQ6WWILEVMD+bCxzGfnRFFbXsZclqSxkkeOCG70zeA+pqlr/BKUyDtqktl3tYlb02pckIKhtbRHbzz49ABmkYIE2itkyvJc+2IklGiWIrxQncQFqHDNScnaLFD3GCb5DdikNP6XBiV2cuxMg6hREq4FYRuvY0ghu4eHOAixikpxCTaBU3X0X+xOgJsxcOgE46wXTxzC2g4wr3FjS+zMwRvWfeiGDv/mMdWx5vU0i35yb+37luuCWq8KMWli6QNkVEMVdjHEBpMxfSflT7oI+MS/AOGT3C+7B/91x6RKohh6vjxoWwxGDxSaZyrRGaMms1hCb1dHVhTKXCh8WZs08Q2bGNV+8sQvvcu08kKqicbnj9Hi36+ahPNkTW/EnK7uAEA08sOd8/RddwKmzEcfhyGLaFqQ0qXh+cO02WmlAYM7R5K/kOvc/zrl9Kn8cw6LvFSkRGgsJhZDcW6DUwgNeYDVS4rFFUy5Q5VN/EjUr3AU6lhYGU7p7FDS51iZhJbMl4sivDcjg1JVE/i23JyxgnOeKBHshmkCW165JVU=",
+      "Metrics": {
+        "EncryptMs": 20.8847,
+        "DecryptMs": 0,
+        "PlaintextBytes": 3,
+        "CiphertextBytes": 1103,
+        "Overhead": 367.6666666666667
+      }
+    },
+    "ForSenderCopy": {
+      "SenderId": "thanh",
+      "ReceiverId": "thanh",
+      "Timestamp": "2026-09-22T19:05:39.0395453+00:00",
+      "WrappedSessionKey": "avUSU7lspPDz5WCnIl6doTub8enOoikK4T6Db4Q0CodEqYYsM5UwxvHtpeTc97kBD58jHmwygdNQMM92GI5Qf7LSrCIykONjxGzW+kz2eDDhlN9Ape5mZbVit4H6UeBL0mitQ5+OYelJw3cDnAf7efu/Fmg9jYv5jBeJll1bVAzHVULzlSCKQhJiEmm8AKvR/MwQC3b3PSrkiVBd4S1PEjSljQ8JfHK8qscHd6/Owan9XnWn6c3UDoALqa+REF7RF/3ot/4HSicCuOa+ZwoU58CfsKWd6R8IVF8oeRKVd7GUGuCNrTc6UfWCeT2araYMa66WxttdcvJ/ryFspo9EHucczAs/wMPa0MiJXJUq4bqFvqWQ2w7lszH5cehwMXfgQOyrwed9lcsPNKsc2n2k7oRxRRg38g+EVZ6dRAlTqtuUGrTRmk54Q/vkcKb63DRhxJ0nfqebVE9ckAINIVH+Nfzzo5vFOMA1uOO5KYF2/1/SIHNpkROjBC3yeiTyFgSik9xwo0XOgpDPLTKMzkfaljeL2aVamIAEQ6al9pXyTKV27bft84fuc2i1DPRkCQAImnEgjf7Gkx8FVqGufRmHkUD9B+tEKkNQ/MpcMOzh1O73kFm4WPaB2/gj04dTAuSvgLKLi7neV0HN0xc+iYzNcqLrTWJ5tntACS3dRjSE1hc=",
+      "Ciphertext": "0nhmmL1DqrGxFVc25KsGJpHMnufgYtipX7d9gyuG9w==",
+      "Sha256Hex": "827ade3254c72ae811201b418766d9a8802e91b029d95cc9de2f0169274aedd7",
+      "Md5Hex": "838ece1033bf7c7468e873e79ba2a3ec",
+      "Signature": "1h/97kO/RbvoCgKA1NlGh3j3ec/hwLJrhqWqb2tIEu7eGKv8bEVNyX6Akdd6375tSRJP6QILaNSE18hnbtobs5ad3GPPv3FqTM7T81+nOKV8lLjex16nb7OXE06q1TYxaxx7/+l7umdH+zezC2CT3GE09VXtxca/OXYaZFABl7vnXqnJ/k0BDGlce4xNpeBQujMD3gaxdjjZFk4y20SmQhZCTYwwqEw7PJyhzDYFls7kyViAI1+FRXPj7oTNFTtX2XhN38dP9VYjB/GxLt7LNo+uL8zSUITimrgns9oedNwXIolqHn4u3Kt65pXzGfIXa/6DBDwwht/ogQiClUTvrVnnZK/+aXX4hw3tcCEXCezDQsemHy92T6MX2BvXTqAVF4b9+motcbSyOHs+7GlbKgWKTKaHdVgHoEvc/0gE4SyHrF40YBYnbDIiwuwUB8R5GS7LQWSIh+xTqSnfS3Ic31PmBg/0X4fp78O/MZ/mbieRP318v4mv3lBasztKFRx6wYO0BVg3DJocUk9v+M1fXp7hPt6XpdEPb0Yv4OdptFFClEwvZIaotr/flfqYGMynxUVskJtRo3sgcLWqE1wN3GnoZNbUoC3BaRQGebQZO8/l1Nx6s45pF5HJmGyLrbrUlWmMqJSf/RsHDAIknzMN6B155KM5m1Eraut8cNHkL2w=",
+      "Metrics": {
+        "EncryptMs": 20.1528,
+        "DecryptMs": 0,
+        "PlaintextBytes": 3,
+        "CiphertextBytes": 1103,
+        "Overhead": 367.6666666666667
+      }
+    }
+  },
+  {
+    "ForReceiver": {
+      "SenderId": "long",
+      "ReceiverId": "thien",
+      "Timestamp": "2026-09-22T19:39:12.6146807+00:00",
+      "WrappedSessionKey": "VibgVv1scEve6ReKgUl0YrzbooA4n5VL/GxzC3JFVAd3fLiqATPqSk5fpvql99KsvTbx3gGbTtedoCePDrp2L9rpgs4K6Qjwu+ZbVQki2wDCB0+p2TDm5FFsIcEfa/EKCxhg2z05c02as7wPK1lXdjUPOlaoMEU4eGZY7JTwDoZo+g8c4ePqPyHaNCHE/bULbePwnauT/AusfGUIR/Vh2SuMmeJakHK9/3G5ytFgp6RLLX0ajUr3cR9ZuYg2TZGAcLjmuDwdlMWMxHo8Qc7Pki65VdjuHM5/n8Nr95BF8p1XKeXxFue3ab9p7hqR82R2l8duhGZT/cygOxR46nZ9fGa1UKtC1fWlRLuSuCk48/5+i5a36EXUmTRNeFFpxv88vJzSDGZUb928MDtJuYrK1/sxsdFmJBVqix4xO+yo9YHIB5G4cK8PzYMPpM+8XAbQInPLua6z8Z/IFRqTlHNFrpkXzV3RfseflODsPTZH8yQWJV2EWXW9KgZXoOHA+BaYRnFxtsjVqw2QzG7rgTajog5ZkQkn5YsmoAJzBLHFCjwSM5YM2mJaR5pIOPJtX5rmIj4tLPu3BKgPINdEPiP9MRshJ6oSn1kC2Qn2XpugYouppV+5dz5XcBgz/uUV1qoFMRBdO84Fs0aEFRT31RRyMBzQtGDhlYEdFKEMC+i2vtQ=",
+      "Ciphertext": "GfJwHij05BBdW/jp8fJoAoDbmIOswdvavAqMTivFGVc=",
+      "Sha256Hex": "dd1aaf26c557685cc37f93f53a2b6befb2c2e679f5ace6ec7a26d12086f358be",
+      "Md5Hex": "4ab47e54c2f73ad4c0eb3974709721cd",
+      "Signature": "+PELcQC/oRsW3BIY6M7DdZsxauXe8CG/h7ez8ni+m2iv3mG/WoueUbiyKwDn415XVdQvbrXQrLmUxW4zV+BBw4+VegMvex6w7zZcqt/94GI+z6nmQRbE7mUYY25hFMc5pk3oP+Hv5pNfosft+aZBvUHTonzvu1o4tuAZWZFrKQ/3noMRKfJKGHoXDI5YzqJxgN2CdKb3faZwU4bmHzHIr0AqlLoxEWX4PoNkUGLt0pA36XRgXsTTxygiuR5x6VRt3PbNPcMmN5kmDfKf2JJpN4mPlsz9ctfOHClF93tgkyoa/9eMaKYWSjJl6ay49doWeFmFjDW6ONtxgUJYizuxfButhcX71Di0aQwJEmUH/dcd7JMi5mwLOM4dD7RSCv2LAwqKSsvQ6qdDETJ8nSI6H5Lh6Ez7tqU+DYQNernv2CW9coU3Qyn5Hu0mvaHRvz5VLmcmV+JocOsIv475M5D3oqzmcxHp1zqTOmSPRZPqa+NZbTTF9r7SFyObK6fDn2uu5cArPz1et/uNloSNmwxc3MXA2CL53Hr45FBc7GeoLydqh/KwRNBk/xOc76w++dEyCFlBlgAUUr2DtlCmd8QRgjLROXCWHxtFTTgb4tU1XMEzhfMSE7D0z6v+6/7YJdSWsR/Jf7kwDELaicYySSNG3FoeK7GWCkuTTxiPC91VEek=",
+      "Metrics": {
+        "EncryptMs": 21.5263,
+        "DecryptMs": 0,
+        "PlaintextBytes": 4,
+        "CiphertextBytes": 1104,
+        "Overhead": 276
+      }
+    },
+    "ForSenderCopy": {
+      "SenderId": "long",
+      "ReceiverId": "long",
+      "Timestamp": "2026-09-22T19:39:12.6355215+00:00",
+      "WrappedSessionKey": "XVRRhbOwd5cNxQ2iQCReYDwHAy3aoL/Dd6RjHFgZZCf2pZ3IY4XXKsC+EWoDRktfhOCYl9j40jBrkTeSbtkGRcU45btdykwAxKuPMi7p0ZP/4HxNGdIxRmJCIuzWZf+rgVOsRuDVwWs7gf/jsTluq5Q71ndSbGBCKQVBWgjqQO921M1V89LgktnoJMYw3mHyr6UcPkWCSjYtI2rfez8du0TQRCkqWNqOl+itoTrtJMQR2qMr2bS+qKVAcgDZ/0tNSEi7EAO0jlncFoLr7Ubb/r/vDNvwhwV9saAMb9Q4pkYFUwT4qWmuocttcezaD68482D+jZo/HrGkyX++2WbsfoHgzWObIl2t5J65srODOjLIyMWCYTWYR8d7WiE2Kk+9Ullj2EeGTdV+H8ouUT8kzteM3ZSpc71c8WLJGVRyvIMz4o5lt4CTzTk9X0Yznph5rfCdPF7EX+nHtThtDTdDHjrWBFwYfcwStFBTXGYTNb8jaOGpH0v7Se9pek+XnefIVFYwCevEX7XtejY5q89WS9IG3CTkDe7UK8eprMn471FmTqDv2AvbkptJWBGELJ3hJh6YTtiSzBpXpn5f6RZ9bk1FiZNsfeuYX8L64RDp/Tz01LdRYVwFzwrKc2zygQE2wMPLF1kt7dS1XrseUUIDTKlyskJkS6CZFXXomLPkb0Q=",
+      "Ciphertext": "JVNdikn0bQ0Alhu2eL85i8Pqssh8afl7GH0cWjuju0k=",
+      "Sha256Hex": "dd1aaf26c557685cc37f93f53a2b6befb2c2e679f5ace6ec7a26d12086f358be",
+      "Md5Hex": "4ab47e54c2f73ad4c0eb3974709721cd",
+      "Signature": "9zcoXCjl6hJpAYNTIAhFVk9jmNYIj9DLjJHfzblVF4tmO5FHcLuMTDGsmouv4wdPeWjY+JXLrfC6I75JUGgczgmSKGIFq8AOT+Bd74rwU5w67gPiJ1u+ED1mZXx3VoFStiwrUDjz08LZVOU0jqhdivLJohZsRxKvkd/I4DGhmQCT3YYSmteqHVriCBM0iMsznfRF0c6YIsGCC82E548IfQm7B+CO9mSCKB++p3CShAgOS8fSB8UT7zt8VkaPbNudiYKekI42kfwO3YhibHevY8Q4/CiQ/FIvj3EvcRnivYK5YInnoFJzHwgwZIr/va876yJbiJbXD72zV1qHyk9WF6P+TTjGDZtJ54UDs82RjB5hd7tWHJOT3cB/0jkMS0wfISYW4hJ25G8yvd9zRatsnIxZBlTd5BlqK9OupkeB9qUWqtxLZnJdHB+DEagfFcdoMSJqFYyt6ScAADgNbO7iFuDwY2EjX9Ucmm8b1KktevDhyq05/sOkh0ib+JmkZYUmiYr82LNeXTiYvJ4doFrd88LkkBiNpytvsuqdL05Xd+84x7FnlMEHAq2OwrN9i7n0VrVabUPGo6EIewTMhZIVV/HvFXkf6PA+7wjYZhECIKq/hIuANXn3WnP4Y4XODhg77rDbi+CR82AMJWClful6VoMXVHn5piTBhQLvULKEVFA=",
+      "Metrics": {
+        "EncryptMs": 19.6677,
+        "DecryptMs": 0,
+        "PlaintextBytes": 4,
+        "CiphertextBytes": 1104,
+        "Overhead": 276
+      }
+    }
+  },
+  {
+    "ForReceiver": {
+      "SenderId": "long",
+      "ReceiverId": "thien",
+      "Timestamp": "2026-09-22T19:39:15.1990143+00:00",
+      "WrappedSessionKey": "UKGMR8iTsrzswB+BHQuu+ppfi2IwBwhR58O3RwraXWr20JHT5x0FdwGddltxQBuvrgya47IUkOiDgPvXoXzbzC4kzmFFNsISXXGmq/vOeHVKVW9+i8SeIOghd+uYFPhgsnRV+vcX9ebMcsTjq2ng5EKWp8Hc8xav949mrVIt0n5rR8tzz151Dz2/QxFHBVF0dmiu2lZiGwqLiVSBU+8vgAoEtrbPz5FOctTRr+CkcM1yCSHddh5zKN3JKUo+ZSwTf7g8Bm5LudtOmGRld3AWLh+J13yXZ7SfupwrbowPu3SAqoHzy5Z3+fyAJP0hGZeEUepzVFd8w4KhyzwE2ptcleEB/pqSAuIm5hE2NNcBxMmMr7/+E0NktRqS/LxPZRoeYfLNxzBglzfobGAz0nRNcyuzi4MH2bdt2ABTGNhnozEDYYe8GH+Lk7eeqNTtGaDFhZ7co6+zJoIFJ5bXa5TXhnUB1Y1fKAn5iSavJx4NJk2rI1HP04bWrOsmcPPiQDVw4U3UtwTNrHsg0wD9hvCUFLBK32c/8KCSb5D739/djwLYLgiBm4oj00mZeovrLm7eUPgErSYBGHkwH6oPC/HJjfpHDA8xZBKPvH0kypsApEz8jokJTdpfovzMWVdbTcM75CG57my95Vbdv20cAddJHPylOKPigt4yhoyS0m/XKZw=",
+      "Ciphertext": "jQXXszVyidvFgZ2cceo82VmI1xmWV7+IQAfITD4KTA==",
+      "Sha256Hex": "1248712441dbbf43bb37f91d626a020e7e0f4486f050142034b8a267b06a2f0c",
+      "Md5Hex": "5c7d0c90cf9e0ce560956179e8e82e7d",
+      "Signature": "HsZwU5Lc3oz6cUfAIT3VJX5w9AudCi4UuVCES1sAXV29KQf6GbUT/fB0X+Lb+XqhFHUmp+XBai4L+XE0155eECHknSIOmBzs8Uu1i95boXIWhn+s6h8jVOFk8dV0xNBFzrGU7jpfk/7ArF0R8BsVVfIQW57I0tbUMrBvHRvQ++1AgvTDJnUV+KeZ+hlpvLxhBbSa5lXrgsNhAlU4vnQ51LIqDNTDJf8psKIQvkPuJ5lf2710ojNgInDXvv9XbgJnseCVEvm5tH6JaqqcV0fSg3rpMaUD2GqZroSy2lcKAQrCa7kKuGkabmMZucPqKqkSEvvKmjaXsiDxEGCBfZqbeoDH02VAX2lR6WABQfOIzSiGrRNQcE8/E7IYAmVPZcniO/eJF8jcZUG+qWGp3ecfh+4dmT3B15PS31CrGM2miISc929fuSMWr/aUiUNSttOAsiYL+n5iVpScSK9vFvJeMcyXRv4Z7jUbtvYNamUXEZJDAWwk0vzKCso537czyk61P/ybDcA+KqsK2/ziTk5Hn6bwaj2zxiEJfTmFXbO1W2X+A9S3RRTIXBZYoIR7dGHUDdCa8u2/2zX9jI8Vn1g11wfw/HX1K3n7NifJdlAz2bKqS1JllOcq3VuhQlV+UtGAPDEIG5tjW4fdlcOj15qvAKs+hHjbFknHc18qbxs0ubg=",
+      "Metrics": {
+        "EncryptMs": 20.0363,
+        "DecryptMs": 0,
+        "PlaintextBytes": 3,
+        "CiphertextBytes": 1103,
+        "Overhead": 367.6666666666667
+      }
+    },
+    "ForSenderCopy": {
+      "SenderId": "long",
+      "ReceiverId": "long",
+      "Timestamp": "2026-09-22T19:39:15.2191877+00:00",
+      "WrappedSessionKey": "Wdtr2KCn2jbuyeDiGL6u7RqrhFUlknt6CPJkqgHzam75f29y17+WagvFWP58EM4kcY5A79FdmYwmWlyt/i3CLgDfg02h5xSqiMsz04128Xk0MOjDstuxbas88Cd1sO2DmqUGMbx7U15LeRAgoLLirDw8qD7UM7+wgWt8ZqmP445sRIKnbHgGiElFrdimw7LnVX5SmFJmJBjVPDY2LS6wg45RPRdfQAbmtzxZVWciJtMg3fDZrIdtvr445o6dnStniL2d0aO+DafsHqppfMuWHYjP2w7eEq1bIxzahmpd4bj/hq1Tgv+8zpVQRqdU6jy4o1k2lNP6DnJdgge0MhE6+Ec+5PcZIMf6DxOX/OpWpZKVhF8JtX50v2qhAb4b4JdINfVCLQVJ6qXqgUShO/sGleFQB9k/kL85HJER5aA/u2oAoDi9mX9QC/jLGmT+JOW1dAkOEXiWeXMWywbiHtrSG8xswq3+4XDY+IOXe8rpWazlLUXLyvdU/RZ6Ne4KHcRTJYflML0wwPGvvIZtn/Lr73OAiginlMFKidpE/WS+edo8L1aV01WhlY1i1I841b7ppFXr29g0qB33HfqKpubDW6X9sqSrKmTf5ZHq1ckgrmY1ZEIgFYPO1AY+9bZNqXZlNXE/WmOG1FvFF4uNrpaciSPqZNfinph2qU1WyQEcTGE=",
+      "Ciphertext": "XWk2otRrmqwBpJx1/wxDIXj4KObPI0ab6FF9nffFNw==",
+      "Sha256Hex": "1248712441dbbf43bb37f91d626a020e7e0f4486f050142034b8a267b06a2f0c",
+      "Md5Hex": "5c7d0c90cf9e0ce560956179e8e82e7d",
+      "Signature": "lNLWVdcFx5Aa5DPPOT0uYmbOtqB8pE9fETn12sGhWfUidYmxvcou8kUdSq6V3YayEFsPpaGUh1tQnNv9FpuiPSegT9cLTWOqPqoBir6gGuHPQmT3YDDv+cXh5u2P2ljsi9hgNtVF1f25wpVuDF8KIQEjLnFlc1RFOSSwjR33brjwSRmfcgYvFH0NWIqBDywUSG3qGb1ZE/9Wq2BeN6M810sQGTPFWEhRybNXCjfZgGXqoHCT669hJ3X/TflWcH/1rPQ0V2sh38twpA6zJod39//NtzIVufXgnUulMJXAk4Jwk3FmxGvmKopExhoEoxLm8HavZ9wPfL2ZlxosA8HHpmEO3otZ/I8fJY3n1SIIiHx6hnYOXUHziw6In97M6NFS2zuP/ZRcYJLgj9RW0LxYR78KOBAlqMkGQB4mpcbAZGagK9WyUwFCjvzqy/zElOm/zYlTUIpY1pnTEazyZEKLXab/gzU4yOU0bIR/UZVyidb8BXxnH3v3UdgYFmCPrZXqkVH18REQk3BCZjpnNE+fIsU6Ii76Ykk48Ku4VA1wEBhS1uqXr9WGOVm1vWqcl2ii/+6t6ANzwYJaGqq5Z3sA5uqh2qvWsXyq4SYIfASFBNrninbSo185Ybo2eEOFq57Y9fdyOtW9k4NE+LR01/Cv8tPqL46XOTpg/mdtGAumbVI=",
+      "Metrics": {
+        "EncryptMs": 20.2817,
+        "DecryptMs": 0,
+        "PlaintextBytes": 3,
+        "CiphertextBytes": 1103,
+        "Overhead": 367.6666666666667
+      }
+    }
+  },
+  {
+    "ForReceiver": {
+      "SenderId": "long",
+      "ReceiverId": "nam",
+      "Timestamp": "2026-09-22T19:39:18.7755987+00:00",
+      "WrappedSessionKey": "B/RqGq6FJhKqFLr6X9CzY6H22O/OrXn58/RtI6vZ7rWs5pYA7Q3ZWgFpisvMfxoik7UhvuXozY1Aes2Ldepn7m7S/LYJXTvK048rE7UgtE4XZ2HG02p55zvOJDGhiEuhE9J+/5iX6Nqvcf+NsIQK78JI37AJvUEh08wdWQiR9/sln591SpiYil2daxD9k1ssQfDp9Xg5MVuHA6HPcQvG2gjg4k61ofIU0avDlB+dhtMGDjF1aLL46IIH1BVA+UkXMKGGkO+G+l/y6Akdotn7VK9GWF1odTpi6FlOzKp3KaFe7yydfQiJN52lzJXLIQ4AdDRCDdY/fsZRX4Dxy4qo4UJsjGkz4elJdpcYffuO2CG4YcrjmvKDnOJN6AH+c0e9C1dEPB/dN+hfpjl69scynZKT/qMVJpdHYURRvQ2Y/ONOe+Y4Jcto8Lmvdv4SmpOySpU2VxmXnPlzJcPeQwUU8lbPUL6LED6RvNW+Cm0g3t6WIi5YaqqTi8KhgdFAbB0S87i3lq857HrACw/XwZlpFVTkuj7PDI/N1BWaQ96ei+9xB0CqH0no+JuYm/ZCJvPXz1zBggqAjj3zcnI43sK3lSoR9Tyl2fg7JS5qD5N7dVK1GQEAB24eA6FQoSIOFxUrD6rNTLFPKlYzYSPaaAXcvyK/zwpkZihFt7CU9bpjIAo=",
+      "Ciphertext": "BsgPZRNLtI0+hQ6RaPgloF6BlRTI5UrJ7RocJ7DoPZd1eA==",
+      "Sha256Hex": "ec29a083a1fcd35542faf1595e2f99892bfbae6e59dc88bece90e7738f26966a",
+      "Md5Hex": "4a74f92f7847e54a2fd22f6e71bd99e9",
+      "Signature": "F+XSu6ItWKMO2q2NelS8B8wI9y02t0S3FaE94IkLH+bCw+6GDGg7txwFe0qsLePKCf18s/ev879ds4vATCWG/beSv97EdZwlU172tq/l9Wf9LBeaeTmvzxEiXdQ7KspThQpZfMTo25NT1SEcs4k8FVoXnQtvfqw9aNH/TIWPaH4JmA3Z+rM3X1gtj8SQVHy6BxGi21wr533Rm8HO/1aU0f+3HdQM8n6+8VvMS6PaSvGOiuv66mKmOv7kYA634BeB/wcyQJy0AbkZKeKCw10ICKyZKy5Z0MrRzIhOkVE6sWJ4TytqY0dRJIrFNb3/ti320FrPts1P6tUxlhxgXvMhci+xLEcrgsNI8kUdTOMdwbgnOb9r20s7Mc1NR43tQh96aQ+ebG/Wm8jtr/6h9mi3s9YLGjV/MXIbYfXJ7pmwY4Bf2klH+grrrwCz/Pg8dKxYC06wNZzMazWDr4fdUddfaQRaWvmLsgQq7O3RwxITNya0py9WtXCA9qX2bFJyFBgEVRSa4l+spaLXSiYjhK9kiauK5tBCWCygIq0NzsFJfg0yC4oN6ogc+G//dzrfdA89al9ImA+XBTjB3w6POZ8nNYM2nWMm6oftZN0VaoKPtn6aOScE9ZuHLKesjHIyIWWfq9AuotVeeTvoCuhfO3oMDxJrczfIn5yrqh+PVsqZ6wg=",
+      "Metrics": {
+        "EncryptMs": 19.1402,
+        "DecryptMs": 0,
+        "PlaintextBytes": 6,
+        "CiphertextBytes": 1106,
+        "Overhead": 184.33333333333334
+      }
+    },
+    "ForSenderCopy": {
+      "SenderId": "long",
+      "ReceiverId": "long",
+      "Timestamp": "2026-09-22T19:39:18.7943768+00:00",
+      "WrappedSessionKey": "qWLl/QXczYSLRyRqw1nU38FvuI44FXvFyDG17cDTAPwwCI/z6rjs8d9hAQdhCrE4jlZiPShvyLAG7bsbNVY9du9ycRLXN1MxCth84hTIzLNIdUWeMMqTy1l6/LBdNZTMaEY+vWyA48BxhYJyiE9X3ob48bVt9n24DyDlD+5WJSiscLQF9OURmc5DSaaA/NcnkHfI4KLoCoH+nfEB3XvhVDLaHL9zBNgCeeshLCHnzy2qcr35yO9GNpO06nHqL4nMVh8tkRCMoHr5TguCqeI7pSqsKJOimD/LiHDi/t5guHmk03mHqpseeODcaz4+r2NWnz469RRyioCqGVRRGgz9Y2NX0GzE9nAfSQ6ZUSN95udkGRH/lB6XIFZBF9klhXGjAnpqyX5p8ZyJ1HnVhh4UC/eywmlt/bQb1ZqRUhrg0znNyFDXeKwnjFl+mEme/gSPrKokUEYvlGKQYkpwr4I0mkI26xc+cVcS2abDNRVcMwUz6P7wOxfmBV2kUS+AKLBPtPyLnFwCkEfUqAf+EOijHDqh8SWHwph0P2M1wGuMo8cnkPt2C36QcpJw93OsLN6ItNUAtu3Ut70bgv7FloCQtoKoxaiCZ+ZxQv2LpLccZGv5EhTt1qKWcyaTSZfwvvfQB4OzynBKrLX6TbF+9lqaJv5gU5ZExFdRFr+ZawZOIAI=",
+      "Ciphertext": "rshn/viAUvCARV82E2T65eY/rV8qJznT+h904/QcFsi7jg==",
+      "Sha256Hex": "ec29a083a1fcd35542faf1595e2f99892bfbae6e59dc88bece90e7738f26966a",
+      "Md5Hex": "4a74f92f7847e54a2fd22f6e71bd99e9",
+      "Signature": "4sV/P58XYLpibcNYPFYbkH2r0eUeAg8872/5wHTb7tpD96sc/2bD+ztnn16nVafprvPghpgTiY1i4h47+o6u/RZEvfo2xOo9WKpwhZriez7Yd7eGrrP0rN45+kYqIFV3mUeidr3N5+K38+Il4zjzrur+8hSr3w1r3//1Sv3jSkce79B482GpBbWpPsN2/4FFQ2lO8Hx2miNYP2O0WhHSbGkP/baq+GOoxZJPCX0IWjYQ0ZTDAanQGJpQezskW3LlulJT/XWpd6SBA3r27PlExN/0z/Jz5j1GnSYFh1v99t0bTQv9NDZKXvEH+IUG5rEreHldOQvFWL/QDOro2iSuwnwfb/KmNZBEB0W+2AwMMsdU/DVFpj9Y02lTRGWUMDpW/Xyv5vICXqKfPjBDuyP9ZuIScsc1azHfG9womUGsnozaY5PZpUv1TZ8JOz1p3grlzhQKTgXrr166mKZbtC81djsTel6gcAP26TaOhc3WlAESLPpACfs2drSz3OpJiK33Ab4hYeeMClWCIpoZ9x6Y3gknS1TlxhakuPA1KfNZ0JP3NonRR7IUdhtCFrBF3QoCdCbK5lSItbC1ID+mdJO5woTkh8ciU1/MUkfN49jv2mSuNT4BWWmMmSm4gcL5zF/4kC/K1xWQZyd0nTJTx87z+S4foxccN9raCS8W+rhuJiY=",
+      "Metrics": {
+        "EncryptMs": 18.7505,
+        "DecryptMs": 0,
+        "PlaintextBytes": 6,
+        "CiphertextBytes": 1106,
+        "Overhead": 184.33333333333334
+      }
+    }
+  }
+]
